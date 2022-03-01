@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King against Reginald Tucker. The case of William Hall Esq upon a writ of error to reverse the judgment of the Court of King's-Bench for the reversing the attainder of the defendant Tucker.</title>
+            <author>Hall, William, 1675-1748.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23873</idno>
+            <idno type="STC">Wing H445B</idno>
+            <idno type="EEBO-CITATION">99827630</idno>
+            <idno type="PROQUEST">99827630</idno>
+            <idno type="VID">206868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206868)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1849:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King against Reginald Tucker. The case of William Hall Esq upon a writ of error to reverse the judgment of the Court of King's-Bench for the reversing the attainder of the defendant Tucker.</title>
+                  <author>Hall, William, 1675-1748.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Suggested imprint from Wing.</note>
+                  <note>With a half title on reverse that reads: The King against Tucker; the case of William Hall Esq.</note>
+                  <note>Argues for a reversal of the judgement against Hall, saying it was done on a minor technicality. Includes a chronology of the case.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tucker, Reginald, fl. 1694 --  Early works to 1800.</term>
+               <term>Courts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:206868:1"/>
+            <p>The <hi>KING</hi> Againſt <hi>Tucker;</hi>
+            </p>
+            <p>The CASE of <hi>William Hall</hi> Eſq;</p>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb facs="tcp:206868:2" rendition="simple:additions"/>
+            <head>
+               <hi>The KING</hi> Againſt <hi>Reginald Tucker.</hi>
+            </head>
+            <head type="sub">The Caſe of William Hall Eſq;</head>
+            <head type="sub">Upon a Writ of Error to Reverſe the Judgment of the Court of <hi>King's-Bench</hi> for the Reverſing the Attainder of the Defendant <hi>Tucker.</hi>
+            </head>
+            <p>
+               <hi>JOHN T<g ref="char:V">Ʋ</g>CKER</hi> Deceaſed had two Sons, <hi>Andrew</hi> a Lunatick, and the now Defendant <hi>Reginald,</hi> after the Father's Deceaſe <hi>Reginald</hi> got a Commiſſion for the Cuſtody of his Elder Brother and his Eſtate, and for divers years concealed him in a Mad-Houſe, and acted as Owner and Proprietor of the whole Eſtate in his own Right, part whereof was Leaſe-Hold for Lives, and part Inheri<g ref="char:EOLhyphen"/>tance.</p>
+            <p>
+               <label>1681.</label> The Defendant ſurrendred the Leaſe-Hold Eſtate, and took a New Leaſe thereof in his own Name, and then Mortgaged the ſame to <hi>Alice Hinton</hi> of <hi>Hackney</hi> Widow for One Thouſand Pounds, ſhe not knowing of <hi>Andrew Tucker</hi>'s Title.</p>
+            <p>
+               <label>1683.</label> The Defendant, though Younger Brother, and his Elder Brother alive, made a Mortgage of the Eſtate of Inheritance by the Name of Son and Heir of his Father, to Mr. <hi>Kett,</hi> and others, for Five Hundred Pounds.</p>
+            <p>
+               <label>1685.</label> Mrs. <hi>Hinton,</hi> being by Age and Sickneſs unable to manage the Eſtate lying in <hi>Somerſet-ſhire,</hi> importuned Mr. <hi>Hall</hi> being her Relation, to take an Aſſignment of her Mortgage, and ſhe on payment of her Money aſſigned to him and Mr. <hi>Hall</hi> entred on the Leaſe-Hold-Eſtate, and Sowed the Land, having never heard of <hi>Andrew Tucker;</hi> after which, one <hi>Grove</hi> a Kinſman of the Defendant getting a new Commiſſion of Lunacy and the Cuſtody of <hi>Andrew Tucker,</hi> entred upon Mr. <hi>Hall,</hi> and reaped and carried away the Crop of Corn which he had ſown to the value of Eighty Five Pounds, but ſoon after the Lunatick dyed.</p>
+            <p>
+               <label>March 21. 1686.</label> The Defendant <hi>Reginald</hi> Brother and Heir of <hi>Andrew</hi> was Attainted of High Treaſon.</p>
+            <p>
+               <label>April 23. 1687.</label> Sir <hi>Theophilus Oglethorpe</hi> got a Grant from the Crown of the Defendant's Eſtate, having procured his Reprieve, and paid Ten Pounds to carry it to <hi>Wells.</hi>
+            </p>
+            <p>
+               <label>1688.</label> Mr. <hi>Hall</hi> having been at great loſs by <hi>Andrew Tucker</hi>'s Title, and being brought into danger of loſing moſt of his Money, and put to great trouble and expence by the King's Title, and by ſeveral Suits both in Law and Equity, his Debt and Intereſt being near the value of the Leaſe-Hold, and finding that Mr. <hi>Kett</hi> had ſpent above two Hundred Pounds in defence of his Mortgage againſt the Title of the King and the Lu<g ref="char:EOLhyphen"/>natick, for his better ſecurity, and to ſave further expence, and prevent an account for the mean profits, was neceſſitated to buy Sir <hi>Theophilus-Oglethorp</hi>'s Title to both the Eſtates, and paid him for the ſame ſix hundred Guineas, and paid Mr. <hi>Kett</hi> Eight Hundred Pounds, and paid ſixty four pounds for changing the Life of the Defendant's Wife in the Leaſe-Hold-Eſtate, ſhe having before the Purchaſe committed Felony by Marrying a ſecond Husband, and thereby her Life in the Eſtate in danger to be loſt, all which ſeveral ſumms were the full value of both Eſtates.</p>
+            <p>
+               <label>1689.</label> 
+               <hi>Reginald</hi> the Defendant Petitioned the Houſe of Commons for leave to bring in a Bill to reverſe his Attainder, but the Committee, to whom the Petition was referred, hearing Mr. <hi>Hall</hi>'s Caſe, who oppos'd it only on account of his ſaid Purchaſe, and Examining the Defendant if he was guilty of the Treaſon, did not Report the ſame to the Houſe, the Defendant's deſign being to avoid Payment of Mr. <hi>Hall</hi>'s Money, which he hath often offered to accept with his Intereſt, and to account for the mean Profits, and to Releaſe the Eſtate, and is now willing ſo to do after nine years trouble and vexation, and often Soliciting to ſave the Defendant's life, before he heard of <hi>Andrew Tucker.</hi>
+            </p>
+            <p>
+               <label>1692.</label> The Defendant brought a Writ of Error in the <hi>King</hi>'s-<hi>Bench</hi> to Reverſe the ſaid Attainder, and in <hi>Easter Term</hi> laſt the ſame was Revers'd, only becauſe theſe words <hi>Contra ligeantie ſue debitum,</hi> are not in the Concluſion of the Indictment.</p>
+            <p>To which it is anſwered,<lb/> That the Indictment (amongſt other things) ſets forth that the Defendant <hi>Reginald,</hi> and one <hi>Thomas Place, timorem Dei in cordibus ſuis non ha<g ref="char:EOLhyphen"/>bentes, nec</hi> debitum Ligeantiae ſuae ponderantes, dilectionem ac veram &amp; debitam obedientiam <hi>quas veri &amp; fideles ſubditi Dom. Regis hujus Regni An<g ref="char:EOLhyphen"/>gliae erga ipſum Regem gererent &amp; de jure gerere tenentur penitus</hi> ſubtrahentes, <hi>ac machinantes &amp; totis ſuis viribus intendentes pacem &amp; tranquilitatem hujus Regni Angliae perturbare, &amp;c.</hi> proditorie <hi>compaſſaverunt imaginati fuerunt &amp; intendebant dictum Regem</hi> ſupremum &amp; naturalem dominum ſuum <hi>non ſolum de Regali ſtatu titulo &amp; Regimine Regni ſui Angliae, &amp;c. deprivare &amp; exheriditare verum etiam eundem Dominum Regemad mortem &amp; finalem deſtructionem adducere &amp; Guerram Rebellionem &amp; Inſurrectionem contra Dominum Regem infra hoc Regnum,</hi> &amp;c. <hi>Levare &amp; Suſcitare, &amp; ad eaſdem proditiones conſpi<g ref="char:EOLhyphen"/>rationes &amp; imaginationes ſuas perimplendum &amp; ad effectum redigendum,</hi> &amp;c. <hi>ijdem</hi> Reginald <hi>&amp;</hi> Thomas, <hi>&amp;c. contra dictum Dominum</hi> Regem Supremum verum naturalem &amp; indubitatum Dominum ſuum <hi>cum magna multitudine gentium armatarum,</hi> &amp;c. <hi>Guerram publicam contra dictum Dominum Regem proditorie, &amp;c. levaverunt,</hi> &amp;c. And concludes, <hi>contra pacem Domini Regis Coronam &amp; Dignitatem ſuas,</hi> &amp;c. <hi>ac contra formam Statuti,</hi> &amp;c.</p>
+            <p n="1">I. And foraſmuch as it appears in the body of the Indictment, That the King was the Defendant's Natural Lord, and by Conſequence the Defendant his Subject, and the Fact alledged in the Indictment appearing to be High Treaſon, it is humbly ſubmitted whether it be ne<g ref="char:EOLhyphen"/>ceſſary in the end of the Indictment to repeat the Fact to have been done againſt the duty of his Allegiance, it being ſo fully and plainly expreſs'd before in the body of the Indictment to be ſo.</p>
+            <p n="2">II. This Indictment is according to a multitude of Preſidents of Indictments for High Treaſon, which are without ſuch Concluſion, the Records whereof are ready to be produced.</p>
+            <p n="3">III. Many Perſons have been Executed on the like Indictments.</p>
+            <p n="4">IV. The Conſequence of ſuch Reverſal may be very fatal, for that there are many Eſtates granted and enjoyed under thoſe Attainders, and if for this Error the Judgment in this Caſe ſhall ſtand Reverſed, then may alſo the Judgments upon thoſe Attainders be for the ſame Error Reverſed, and divers Grantees and Purchaſers under the Title of thoſe Attainders be defeated of their Eſtates, to their utter Ruine.</p>
+            <p>
+               <hi>Wherefore it is humbly ſubmitted to your Lordſhip's Conſideration, and hoped that, for the Rea<g ref="char:EOLhyphen"/>ſons aforeſaid, the ſaid Judgment of Reverſal given in the Court of</hi> King's-Bench <hi>ſhall be Reverſed by your Lordſhips.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <add>Monday 21. Jan: 94: Thiſ Judgm<hi rend="sup">t</hi> of reverſall given in y<hi rend="sup">e</hi> K'ſ Bench was affirmed in Parliam<g ref="char:cmbAbbrStroke">̄</g>
+                     </add>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
